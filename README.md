@@ -126,10 +126,3 @@ stochastic_k = 100 * ((data['Close'] - low_min) / (high_max - low_min))
 These are then rendered using Plotly's `go.Candlestick()` and overlaid with line charts.
 
 ---
-
-## 🙌 Contributing
-
-Feel free to fork the project and send pull requests. You can also open an issue if you find bugs or want to suggest a new feature.
-
-> Let’s build a smarter trading assistant together! 🤝
-
