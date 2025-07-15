@@ -1,0 +1,6 @@
+customtkinter==5.2.1
+pillow==10.3.0
+pandas==2.2.2
+plotly==5.21.0
+numpy==1.26.4
+numba==0.57.4
